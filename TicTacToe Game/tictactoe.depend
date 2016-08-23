@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1452741297 source:c:\users\duska\desktop\tictactoe\main.cpp
+	<iostream>
+	<windows.h>
+
