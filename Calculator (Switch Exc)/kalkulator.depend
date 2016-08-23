@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1447460705 source:c:\users\duska\desktop\kalkulator\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+
+1447460705 source:c:\users\duska\desktop\programowanie\kalkulator\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+
+1447460705 source:c:\users\duska\desktop\prog\kalkulator\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+
