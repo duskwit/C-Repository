@@ -1,2 +1,2 @@
 # C-repository
-These are exercises and projects I made when I first started coding.
+First I started learning I was coding in C++. These are the projects and exercises that I made then.
