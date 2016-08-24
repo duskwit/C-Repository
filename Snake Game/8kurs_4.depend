@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1452415889 source:c:\users\duska\desktop\8kurs_4\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+
+1452738045 source:c:\users\duska\desktop\snake_gra\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+
+1452738045 source:c:\users\duska\desktop\prog\snake_gra\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+
