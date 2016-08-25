@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1447509310 source:c:\users\duska\desktop\programowanie\srednia3\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+
+1447509610 source:c:\users\duska\desktop\prog\1) program do liczenia œredniej wa¿onej\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+
