@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1447238765 source:c:\users\duska\desktop\petla\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+
+1447238765 source:c:\users\duska\desktop\programowanie\petla\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+
+1447238765 source:c:\users\duska\desktop\prog\petla\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+
