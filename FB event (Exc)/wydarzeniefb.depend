@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1452916705 source:c:\users\duska\desktop\wydarzeniefb\main.cpp
+	<iostream>
+	"event.h"
+
+1452916621 source:c:\users\duska\desktop\wydarzeniefb\event.cpp
+	<iostream>
+	"event.h"
+
+1452916621 c:\users\duska\desktop\wydarzeniefb\event.h
+	<iostream>
+
